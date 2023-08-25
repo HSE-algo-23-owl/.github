@@ -1,4 +1,4 @@
-<img src="https://github.com/HSE-algo-23-1/.github/blob/main/images/concept.jpg" width="200">
+<img src="https://github.com/HSE-algo-23-1/.github/blob/main/images/concept.png" width="200">
 
 ### Добро пожаловать на семинарские занятия по курсу "Алгоритмы и структуры данных" 2023-2024 👋
 
