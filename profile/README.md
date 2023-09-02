@@ -18,8 +18,8 @@
 Кроме того, некоторые задания предусматривают реализацию алгоритмов для веб-приложения Онлайн-калькулятор. Исходный код приложения размещен в репозиториях - [клиентская часть](https://github.com/HSE-algo-23-owl/algoscalc-front), [серверная часть](https://github.com/HSE-algo-23-owl/algoscalc-back).
 
 Онлайн-калькулятор развернут на:
-- [Тестовом стенде](https://owl-test.ommat.ru/) - обновляется при внесении изменений в ветки Test,
-- [Продуктовом стенде](https://owl-prod.ommat.ru/) - обновляется при релизе очередной версии.
+- [Тестовом стенде](https://owl-test.ommat.ru/) - обновляется при внесении изменений в ветки [Test](https://github.com/HSE-algo-23-owl/algoscalc-back/tree/Test),
+- [Продуктовом стенде](https://owl-prod.ommat.ru/) - обновляется при релизе очередной [версии](https://github.com/HSE-algo-23-owl/algoscalc-back/releases).
 
 Для серверной части тестового стенда развернута [Документация API](https://owl-swagger.ommat.ru/docs).
 
